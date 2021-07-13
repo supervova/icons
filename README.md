@@ -27,3 +27,4 @@ Curated list of icon sets
 - [Iconoir](https://iconoir.com/)
 - [Open Iconic](https://useiconic.com/open)
 - [Noun: Icon Search](https://thenounproject.com/)
+- [Icon Finder](https://www.iconfinder.com/)
