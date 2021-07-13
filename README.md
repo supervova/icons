@@ -6,6 +6,7 @@ Curated list of icon sets
 - [**Material Design**](https://fonts.google.com/icons)
 - [**Tabler**](https://tablericons.com/)
 - [**Component Gallery Collection**](https://component.gallery/components/icon/)
+- [Workday Icons](https://design.workday.com/tokens/assets/icons/system-icons)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Octicons](https://primer.style/octicons/)
 - [CSS.gg](https://css.gg/app)
