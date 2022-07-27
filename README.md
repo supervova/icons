@@ -1,14 +1,16 @@
 # icons
 Curated list of icon sets
 
-- [**Feather**](https://feathericons.com/)
+- [**Tabler**](https://tablericons.com/)
+- [*Icônes*](https://icones.js.org/) — 115 iconsets
 - [**SF Symbols**](https://developer.apple.com/sf-symbols/)
 - [**Material Design**](https://fonts.google.com/icons)
-- [**Tabler**](https://tablericons.com/)
+- [**Feather**](https://feathericons.com/)
 - [**Component Gallery Collection**](https://component.gallery/components/icon/)
 - [Workday Icons](https://design.workday.com/tokens/assets/icons/system-icons)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Octicons](https://primer.style/octicons/)
+- [Basicons](https://basicons.xyz/)
 - [CSS.gg](https://css.gg/app)
 - [System UIcons](https://systemuicons.com/)
 - [Ionicons](https://ionic.io/ionicons)
