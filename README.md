@@ -2,7 +2,7 @@
 Curated list of icon sets
 
 - [**Tabler**](https://tablericons.com/)
-- [*Icônes*](https://icones.js.org/) — 115 iconsets
+- [**Icônes**](https://icones.js.org/) — 115 iconsets
 - [**SF Symbols**](https://developer.apple.com/sf-symbols/)
 - [**Material Design**](https://fonts.google.com/icons)
 - [**Feather**](https://feathericons.com/)
