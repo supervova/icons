@@ -7,6 +7,7 @@ Curated list of icon sets
 - [**Material Design**](https://fonts.google.com/icons)
 - [**Feather**](https://feathericons.com/)
 - [**Component Gallery Collection**](https://component.gallery/components/icon/)
+- [**iconwerk** - inspiration](https://www.iconwerk.com/)
 - [Workday Icons](https://design.workday.com/tokens/assets/icons/system-icons)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Octicons](https://primer.style/octicons/)
