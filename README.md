@@ -6,6 +6,7 @@ Curated list of icon sets
 - [**SF Symbols**](https://developer.apple.com/sf-symbols/)
 - [**Material Design**](https://fonts.google.com/icons)
 - [**Feather**](https://feathericons.com/)
+- [**Lucide**](https://lucide.dev/) — Tabler / Feather style - 836 items
 - [**Component Gallery Collection**](https://component.gallery/components/icon/)
 - [**iconwerk** - inspiration](https://www.iconwerk.com/)
 - [Workday Icons](https://design.workday.com/tokens/assets/icons/system-icons)
