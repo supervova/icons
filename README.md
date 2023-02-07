@@ -5,6 +5,7 @@ Curated list of icon sets
 - [**Icônes**](https://icones.js.org/) — 115 iconsets
 - [**SF Symbols**](https://developer.apple.com/sf-symbols/)
 - [**Material Design**](https://fonts.google.com/icons)
+- [**Atlas Icons**](https://atlasicons.vectopus.com/) - 2 701 items
 - [**Feather**](https://feathericons.com/)
 - [**Lucide**](https://lucide.dev/) — Tabler / Feather style - 836 items
 - [**Component Gallery Collection**](https://component.gallery/components/icon/)
