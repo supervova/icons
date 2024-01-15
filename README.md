@@ -11,6 +11,7 @@ Curated list of icon sets
 - [**Lucide**](https://lucide.dev/) — Tabler / Feather style - 836 items
 - [**Component Gallery Collection**](https://component.gallery/components/icon/)
 - [**iconwerk** - inspiration](https://www.iconwerk.com/)
+- [**Free Icons**](https://free-icons.github.io/free-icons/) - 22,000+ items
 - [Workday Icons](https://design.workday.com/tokens/assets/icons/system-icons)
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Octicons](https://primer.style/octicons/)
